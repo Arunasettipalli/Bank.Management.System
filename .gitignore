@@ -1,0 +1,30 @@
+
+📝 **Save as**:  
+**Filename**: `"README.md"`  
+**Save as type**: `All Files (*.*)`  
+**Location**: `D:/Netbeans/Bank.Management.System/`
+
+---
+
+## 📂 `.gitignore` (copy this one second)
+
+```gitignore
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# NetBeans specific
+nbproject/private/
+build/
+dist/
+*.bak
+*.orig
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
